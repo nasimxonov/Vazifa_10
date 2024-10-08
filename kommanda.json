@@ -1,0 +1,32 @@
+[
+    {
+        "nomi": "Real Madrid",
+        "ishtirokchilari_soni": 25,
+        "trener": "Carlo Ancelotti",
+        "kapitani": "Sergio Ramos"
+    },
+    {
+        "nomi": "Barcelona",
+        "ishtirokchilari_soni": 23,
+        "trener": "Xavi",
+        "kapitani": "Lionel Messi"
+    },
+    {
+        "nomi": "Manchester City",
+        "ishtirokchilari_soni": 24,
+        "trener": "Pep Guardiola",
+        "kapitani": "Kevin De Bruyne"
+    },
+    {
+        "nomi": "Bayern Munich",
+        "ishtirokchilari_soni": 22,
+        "trener": "Thomas Tuchel",
+        "kapitani": "Manuel Neuer"
+    },
+    {
+        "nomi": "Liverpool",
+        "ishtirokchilari_soni": 23,
+        "trener": "Jurgen Klopp",
+        "kapitani": "Jordan Henderson"
+    }
+]
